@@ -5,7 +5,7 @@ This analysis explored the weather conditions in Oahu, Hawaii that were stored i
 
 ## Results
 
-[image!]https://github.com/DimitriGianna/surfs_up/blob/main/Resources/June_Temps.png?raw=true
+https://github.com/DimitriGianna/surfs_up/blob/main/Resources/June_Temps.png?raw=true![image](https://user-images.githubusercontent.com/112590378/198176950-4c20af44-2f2b-4c0f-9749-fb454efed560.png)
 
 
 [image](https://user-images.githubusercontent.com/112590378/198176645-b032ffda-8f11-4689-a19f-81569d215a7e.png)
