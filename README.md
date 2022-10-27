@@ -5,10 +5,9 @@ This analysis explored the weather conditions in Oahu, Hawaii that were stored i
 
 ## Results
 
-https://github.com/DimitriGianna/surfs_up/blob/main/Resources/June_Temps.png?raw=true![image](https://user-images.githubusercontent.com/112590378/198176950-4c20af44-2f2b-4c0f-9749-fb454efed560.png)
+![image](https://user-images.githubusercontent.com/112590378/198177048-c11a577a-0d10-4575-8ffc-584b370c7a70.png)
 
-
-[image](https://user-images.githubusercontent.com/112590378/198176645-b032ffda-8f11-4689-a19f-81569d215a7e.png)
+![image](https://user-images.githubusercontent.com/112590378/198177090-e9b38559-7df3-4577-9584-7af5288a31ff.png)
 
 
 - The average temperature in June is a little higher than the average temperature in December
