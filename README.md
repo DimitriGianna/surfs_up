@@ -4,9 +4,12 @@
 This analysis explored the weather conditions in Oahu, Hawaii that were stored in an SQLite database to determine if opeining up an ice cream and surf board shop there is feasible. Statistical analyses were performed to get an idea of the amount of precipitation and the temperature that can be expected throughout the year. 
 
 ## Results
-https://github.com/DimitriGianna/surfs_up/blob/main/Resources/June_Temps.png?raw=true
 
-https://github.com/DimitriGianna/surfs_up/blob/main/Resources/December_Temps.png?raw=true
+https://github.com/DimitriGianna/surfs_up/blob/main/Resources/June_Temps.png?raw=true![image](https://user-images.githubusercontent.com/112590378/198176690-d219e974-55fc-4793-ae51-9f52505c7c30.png)
+
+
+https://github.com/DimitriGianna/surfs_up/blob/main/Resources/December_Temps.png?raw=true![image](https://user-images.githubusercontent.com/112590378/198176645-b032ffda-8f11-4689-a19f-81569d215a7e.png)
+
 
 - The average temperature in June is a little higher than the average temperature in December
 - The highest recorded temperatures for June and December (85 and 83 respectively) are extremely similiar
